@@ -38,3 +38,7 @@ For a user, interest per category is the ratio between the number of articles th
 ```
 User 0: internationalNews 12.0%, technology 22.0%, localNews 8.0%, diverse 20.0%, sport 22.0%, culture 6.0%, politic 6.0%, economy 6.0%
 ```
+
+### Model
+
+Niave Bayes classifier, achieving around 78% accuracy.
